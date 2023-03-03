@@ -17,9 +17,9 @@ For each session, we start with a group summarization of the reading then go int
     * Leo Porter, Cynthia Bailey Lee, and Beth Simon. 2013. Halving fail rates using peer instruction: a study of four computer science courses. In _Proceeding of the 44th ACM technical symposium on Computer science education (SIGCSE '13)_. Association for Computing Machinery, New York, NY, USA, 177–182. <https://doi.org/10.1145/2445196.2445250>
 * Week 5 (Mar 10): No meeting for CS PhD Visit Weekend
 * Week 6 (Mar 17): 
-    * Allan Fisher and Jane Margolis. 2002. Unlocking the clubhouse: the Carnegie Mellon experience. SIGCSE Bull. 34, 2 (June 2002), 79–83. DOI:<https://doi.org/10.1145/543812.543836>
-    * _Optional:_ Mark Guzdial and Allison Elliott Tew. 2006. Imagineering inauthentic legitimate peripheral participation: an instructional design approach for motivating computing education. In Proceedings of the second international workshop on Computing education research (ICER ’06), Association for Computing Machinery, New York, NY, USA, 51–58. DOI:<https://doi.org/10.1145/1151588.1151597>
-    * _Optional:_ A. Forte and M. Guzdial. 2004. Computers for communication, not calculation: media as a motivation and context for learning. In 37th Annual Hawaii International Conference on System Sciences, 2004. Proceedings of the, IEEE, Big Island, HI, USA, 10 pp. DOI:<https://doi.org/10.1109/HICSS.2004.1265259>
+    * Allan Fisher and Jane Margolis. 2002. Unlocking the clubhouse: the Carnegie Mellon experience. _SIGCSE Bull. 34, 2 (June 2002)_, 79–83. DOI:<https://doi.org/10.1145/543812.543836>
+    * _Optional:_ Mark Guzdial and Allison Elliott Tew. 2006. Imagineering inauthentic legitimate peripheral participation: an instructional design approach for motivating computing education. In _Proceedings of the second international workshop on Computing education research (ICER ’06)_, Association for Computing Machinery, New York, NY, USA, 51–58. DOI:<https://doi.org/10.1145/1151588.1151597>
+    * _Optional:_ A. Forte and M. Guzdial. 2004. Computers for communication, not calculation: media as a motivation and context for learning. In 37th Annual Hawaii International Conference on System Sciences, 2004. _Proceedings of the, IEEE_, Big Island, HI, USA, 10 pp. DOI:<https://doi.org/10.1109/HICSS.2004.1265259>
 
 If you are interested in leading a discussion on one of these papers, please reach out to the organizers.
 
