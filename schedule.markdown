@@ -16,7 +16,9 @@ For each session, we start with a group summarization of the reading then go int
     * Alicia Nicki Washington. 2020. When Twice as Good Isn't Enough: The Case for Cultural Competence in Computing. In _Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE '20)_. Association for Computing Machinery, New York, NY, USA, 213–219. <https://doi.org/10.1145/3328778.3366792>
     * Leo Porter, Cynthia Bailey Lee, and Beth Simon. 2013. Halving fail rates using peer instruction: a study of four computer science courses. In _Proceeding of the 44th ACM technical symposium on Computer science education (SIGCSE '13)_. Association for Computing Machinery, New York, NY, USA, 177–182. <https://doi.org/10.1145/2445196.2445250>
 * Week 5 (Mar 10): No meeting for CS PhD Visit Weekend
-* Week 6 (Mar 17): Jane Margolis and Allan Fisher. 2002. _Unlocking the clubhouse:  Women in computing_. The MIT Press, Cambridge, MA, US.
+* Week 6 (Mar 17): 
+    * Allan Fisher and Jane Margolis. 2002. Unlocking the clubhouse: the Carnegie Mellon experience. SIGCSE Bull. 34, 2 (June 2002), 79–83. DOI:<https://doi.org/10.1145/543812.543836>
+    * _Optional:_ Mark Guzdial and Allison Elliott Tew. 2006. Imagineering inauthentic legitimate peripheral participation: an instructional design approach for motivating computing education. In Proceedings of the second international workshop on Computing education research (ICER ’06), Association for Computing Machinery, New York, NY, USA, 51–58. DOI:<https://doi.org/10.1145/1151588.1151597>
 
 If you are interested in leading a discussion on one of these papers, please reach out to the organizers.
 
