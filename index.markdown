@@ -5,7 +5,7 @@
 layout: home
 ---
 
-The Computer Science Education Reading Group at Northwestern University meets weekly to discuss publications and topics related to computing education. 
+The Computer Science Education Reading Group at Northwestern University meets weekly to discuss publications and topics related to computing education. To suggest readings, please fill out [this form](https://forms.gle/iWcavjPhYqhLDZPXA). 
 
 Graduate students and faculty from diverse disciplines are invited to join. Undergraduate students are also welcome and should reach out to [Caryn Tran](mailto:CarynTran2028@u.northwestern.edu).
 
