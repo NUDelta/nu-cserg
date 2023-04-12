@@ -10,7 +10,7 @@ For each session, we start with a group summarization of the reading then go int
 ## Spring 2023 Schedule
 
 * Week 1 (April 6): Dan Garcia, Brian Harvey, and Tiffany Barnes. 2015. The beauty and joy of computing. _ACM Inroads_ 6, 4 (November 2015), 71–79. DOI:<https://doi.org/10.1145/2835184>
-* Week 2 (April 13): Dan Garcia, Armando Fox, Solomon Russell, Edwin Ambrosio, Neal Terrell, Mariana Silva, Matthew West, Craig Zilles, and Fuzail Shakir. 2023. A’s for All (As Time and Interest Allow). In _Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1_ (SIGCSE 2023), Association for Computing Machinery, New York, NY, USA, 1042–1048. DOI:<https://doi.org/10.1145/3545945.3569847>
+* Week 2 (April 13): Visit from [Dan Garcia](http://people.eecs.berkeley.edu/~ddgarcia/) on [Zoom](https://northwestern.zoom.us/j/94582238020?pwd=SHFhZXRWUlcrQzRoZzh4bXlOQzM0Zz09)! Read: Dan Garcia, Armando Fox, Solomon Russell, Edwin Ambrosio, Neal Terrell, Mariana Silva, Matthew West, Craig Zilles, and Fuzail Shakir. 2023. A’s for All (As Time and Interest Allow). In _Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1_ (SIGCSE 2023), Association for Computing Machinery, New York, NY, USA, 1042–1048. DOI:<https://doi.org/10.1145/3545945.3569847>
 * Week 3 (April 20): Scott Spurlock. 2023. Improving Student Motivation by Ungrading. In _Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1_, ACM, Toronto ON Canada, 631–637. DOI:<https://doi.org/10.1145/3545945.3569747>
 
 
