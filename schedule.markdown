@@ -16,7 +16,7 @@ For each session, we start with a group summarization of the reading then go int
     * Section 3 of: Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horvitz, Ece Kamar, Peter Lee, Yin Tat Lee, Yuanzhi Li, Scott Lundberg, Harsha Nori, Hamid Palangi, Marco Tulio Ribeiro, and Yi Zhang. 2023. Sparks of Artificial General Intelligence: Early experiments with GPT-4. DOI:<https://doi.org/10.48550/arXiv.2303.12712>
     * Matt Welsh. 2022. The End of Programming. _Commun. ACM_ 66, 1 (December 2022), 34–35. DOI:<https://doi.org/10.1145/3570220>
 * Week 5 (May 4): Duri Long and Brian Magerko. 2020. What is AI Literacy? Competencies and Design Considerations. In _Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20)_, Association for Computing Machinery, New York, NY, USA, 1–16. DOI:<https://doi.org/10.1145/3313831.3376727>
-* Week 6 (May 11): Evaluating educational interventions (readings TBA)
+* Week 6 (May 11): James W. Pellegrino. 2014. A Learning Sciences Perspective on the Design and Use of Assessment in Education. In _The Cambridge Handbook of the Learning Sciences (2nd ed.)_, R. Keith Sawyer (ed.). Cambridge University Press, Cambridge, 233–252. DOI:<https://doi.org/10.1017/CBO9781139519526.015>
 * Week 7 (May 18): Syllabus workshop (readings TBA)
 
 Please provide suggestions for future readings, topics, and guest speakers at [this form](https://forms.gle/iWcavjPhYqhLDZPXA).
