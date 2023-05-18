@@ -17,7 +17,12 @@ For each session, we start with a group summarization of the reading then go int
     * Matt Welsh. 2022. The End of Programming. _Commun. ACM_ 66, 1 (December 2022), 34–35. DOI:<https://doi.org/10.1145/3570220>
 * Week 5 (May 4): Duri Long and Brian Magerko. 2020. What is AI Literacy? Competencies and Design Considerations. In _Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20)_, Association for Computing Machinery, New York, NY, USA, 1–16. DOI:<https://doi.org/10.1145/3313831.3376727>
 * Week 6 (May 11): James W. Pellegrino. 2014. A Learning Sciences Perspective on the Design and Use of Assessment in Education. In _The Cambridge Handbook of the Learning Sciences (2nd ed.)_, R. Keith Sawyer (ed.). Cambridge University Press, Cambridge, 233–252. DOI:<https://doi.org/10.1017/CBO9781139519526.015>
-* Week 7 (May 18): Syllabus workshop (readings TBA)
+* Week 7 (May 18): HCI course syllabus workshop
+* Week 8 (May 25): Discussing two recent talks
+   * "Broadening Participation in Computing by Moving Away from Computer Science" by Mark Guzdial: https://www.youtube.com/watch?v=qnjTi9v8ogk
+   * "Searching for Justice in Programming Language Design" by Amy Ko: https://www.hcii.cmu.edu/news/on/event/2023/04/hcii-seminar-series-amy-ko
+* Week 9 (June 1): Cancelled for department's end of year awards
+* Week 10 (June 8): TA / PM training (readings to be announced) 
 
 Please provide suggestions for future readings, topics, and guest speakers at [this form](https://forms.gle/iWcavjPhYqhLDZPXA).
 
