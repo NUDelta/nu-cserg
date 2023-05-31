@@ -22,7 +22,7 @@ For each session, we start with a group summarization of the reading then go int
    * "Broadening Participation in Computing by Moving Away from Computer Science" by Mark Guzdial: https://www.youtube.com/watch?v=qnjTi9v8ogk
    * "Searching for Justice in Programming Language Design" by Amy Ko: https://www.hcii.cmu.edu/news/on/event/2023/04/hcii-seminar-series-amy-ko
 * Week 9 (June 1): Cancelled for department's end of year awards
-* Week 10 (June 8): TA / PM training (readings to be announced) 
+* Week 10 (June 8): Cancelled due to finals
 
 Please provide suggestions for future readings, topics, and guest speakers at [this form](https://forms.gle/iWcavjPhYqhLDZPXA).
 
